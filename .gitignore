@@ -1,0 +1,14 @@
+# --- HashTrack Data (Do NOT commit these) ---
+hash_baseline.txt
+file_changes.log
+*.bak
+
+# --- Python System Files ---
+__pycache__/
+*.py[cod]
+*.pyc
+# --- Build Artifacts (The .exe and temp folders) ---
+dist/
+build/
+*.spec
+*.exe
